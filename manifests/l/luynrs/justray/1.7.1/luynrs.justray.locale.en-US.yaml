@@ -9,7 +9,7 @@ PublisherSupportUrl: https://github.com/luynrs/justray/issues
 PackageName: JustRay
 PackageUrl: https://github.com/luynrs/justray
 License: GPL-3.0-or-later
-LicenseUrl: https://www.gnu.org/licenses/gpl-3.0.html
+LicenseUrl: https://github.com/luynrs/justray/blob/v1.7.1/LICENSE
 ShortDescription: A modern VPN client that lives in your terminal
 Description: A terminal VPN client with support for subscriptions and multiple protocols.
 Moniker: justray
